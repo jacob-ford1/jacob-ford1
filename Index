@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jacob Ford - GIS Portfolio</title>
+</head>
+
+<body>
+
+    <h1>Jacob Ford</h1>
+
+    <img src="profile.jpg" alt="Photo of Jacob Ford" width="250">
+
+    <h2>About Me</h2>
+
+    <p>
+        I am a graduate student studying geospatial technologies with experience in GIS,
+        conservation planning, spatial analysis, and environmental mapping. I currently
+        work as a conservation planner and am interested in using GIS to support natural
+        resource management and conservation decision-making.
+    </p>
+
+</body>
+</html>
